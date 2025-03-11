@@ -146,7 +146,7 @@ header {
 	letter-spacing: 0.02em;
 }
 
-button {
+.servicebtn {
 	cursor: pointer;
 	background-color: #4D5AE5;
 	color: #FFFFFF;
