@@ -100,13 +100,10 @@ header {
 	width: calc((100% - 72px) / 4);
 }
 
-.aboutus-container {
+.card-box {
 	display: flex;
 	align-items: center;
 	justify-content: center;
-}
-
-.card-box {
 	position: relative;
 	width: 264px;
 	height: 112px;
