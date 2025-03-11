@@ -175,14 +175,11 @@ header {
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center center;
-}
-
-.hero {
+	max-width: 1440px;
 	display: flex;
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
-    max-width: 1440px;
+		flex-direction: column;
+		align-items: center;
+		text-align: center;
 }
 
 .section-ourteam {
